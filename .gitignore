@@ -1,0 +1,15 @@
+# Public distribution repository: exclude everything unless explicitly allowed.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE.txt
+!/docs/
+/docs/*
+!/docs/使用说明.md
+!/docs/images/
+/docs/images/*
+!/docs/images/windows-app.png
+!/docs/images/training-convergence.png
+!/docs/images/test-rmse.png
+!/docs/images/phase-rmse.png
+!/docs/images/representative-profiles.png
