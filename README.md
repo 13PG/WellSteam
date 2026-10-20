@@ -4,7 +4,7 @@
 
 WellSteam 面向稠油热采注汽井，输入井口工况、井深、地层与压力边界等参数，即可快速预测沿井深的**压力、温度、蒸汽干度和单位井长热损失**。软件集成三个正式代理模型，支持在同一界面切换模型和叠加比较，安装后可离线计算。
 
-[下载 Windows v1.0 安装包](https://github.com/13PG/WellSteam/releases/latest) · [使用说明](docs/使用说明.md)
+[使用说明](docs/使用说明.md)
 
 ![WellSteam Windows 实际运行界面](docs/images/windows-app.png)
 
